@@ -1,0 +1,12 @@
+body{
+     background-color:rgb(230, 230, 230);
+    /*background-color:rgb(15, 15, 32);*/
+}
+
+#adm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 350px;
+    padding: 50px;  
+}
